@@ -1,0 +1,14 @@
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\obj\Debug\Atividade_Csharp.csproj.AssemblyReference.cache
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\obj\Debug\Atividade_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\Atividade_Csharp.exe.config
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\Atividade_Csharp.exe
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\Atividade_Csharp.pdb
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\MySql.Data.dll
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\System.Memory.dll
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\bin\Debug\MySql.Data.xml
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\obj\Debug\Atividad.4A840AE3.Up2Date
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\obj\Debug\Atividade_Csharp.exe
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\obj\Debug\Atividade_Csharp.pdb
+C:\Users\adailton vieira\Desktop\workflow\teste-csharp\hospital\Atividade_Csharp\Atividade_Csharp\obj\Debug\Atividade_Csharp.exe.config
